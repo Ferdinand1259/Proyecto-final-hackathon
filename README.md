@@ -12,3 +12,11 @@ Este sera un proyecto para encontrar una solucion para el clima global.
 
 ## Las bibliotecas que voy a utilizar:
 > Discord.py
+
+## Referencias útiles:
+> https://es.memedroid.com/memes/tag/cambio+clim%C3%A1tico
+> https://www.tiktok.com/discover/manualidades-sobre-el-cambio-clim%C3%A1tico
+
+
+## Los artículos de la guía que me ayudarán durante el desarrollo
+https://www.tiktok.com/discover/manualidades-sobre-el-cambio-clim%C3%A1tico  otro  https://es.memedroid.com/memes/tag/cambio+clim%C3%A1tico
